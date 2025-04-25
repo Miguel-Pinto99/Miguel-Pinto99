@@ -14,7 +14,7 @@ Check out some of my key projects:
 - 🛠️ **Electric Vehicle (EV) Prototyping** – Building sustainable, efficient solutions for the future of transportation.
 - 🌍 **Web Development** – Designing interactive dashboards and APIs.
 - 🤖 **Robotics & Camera Vision** – Working on backend systems for robotics and integrating camera vision for automation.
-- 
+
 ## 🚀 Let's Connect!
 
 - 📧 Email: [miguelpinto1999@gmail.com](mailto:miguelpinto1999@gmail.com)
