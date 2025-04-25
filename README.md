@@ -14,10 +14,7 @@ Check out some of my key projects:
 - 🛠️ **Electric Vehicle (EV) Prototyping** – Building sustainable, efficient solutions for the future of transportation.
 - 🌍 **Web Development** – Designing interactive dashboards and APIs.
 - 🤖 **Robotics & Camera Vision** – Working on backend systems for robotics and integrating camera vision for automation.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&layout=compact&hide=html,css&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true)
-
+- 
 ## 🚀 Let's Connect!
 
 - 📧 Email: [miguelpinto1999@gmail.com](mailto:miguelpinto1999@gmail.com)
