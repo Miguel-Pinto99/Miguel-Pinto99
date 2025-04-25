@@ -17,7 +17,7 @@ Check out some of my key projects:
 
 - 📧 Email: [miguelpinto1999@gmail.com](mailto:miguelpinto1999@gmail.com)
 - 🌍 Currently based in Eindhoven, Netherlands
-- 💼 [LinkedIn]([https://www.linkedin.com/in/miguelpinto99](https://www.linkedin.com/in/miguel-pinto-9aa8551bb/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/miguelpinto99](https://www.linkedin.com/in/miguel-pinto-9aa8551bb)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&layout=compact&hide=html,css&langs_count=6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true)
