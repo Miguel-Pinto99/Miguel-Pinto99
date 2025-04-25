@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Miguel Pinto
-
 ## 📌 Featured Repositories
 
 Check out some of my key projects:
