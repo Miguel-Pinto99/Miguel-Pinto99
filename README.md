@@ -19,8 +19,9 @@ Check out some of my key projects:
 - 🌍 Currently based in Eindhoven, Netherlands
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-pinto-9aa8551bb)
 
-![Top Languages by Stars](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css" width="500" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true" width="500" height="200" />
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=csharp&logoColor=white) ![Django](https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
