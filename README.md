@@ -19,8 +19,8 @@ Check out some of my key projects:
 - 🌍 Currently based in Eindhoven, Netherlands
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-pinto-9aa8551bb)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css" width="500" height="200" />
-<img src="https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true" width="500" height="200" />
+![Top Languages by Stars](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&count_private=true&hide_title=true)
 
 
 
