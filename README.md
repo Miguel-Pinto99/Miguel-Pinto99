@@ -13,12 +13,10 @@
 - 🐍 **Python** | ⚛️ **Reflex**  
   [**Typing-Game**](https://github.com/Miguel-Pinto99/Typing-Game) – A fun Python game to improve typing speed.
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css&card_width=400&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&hide=issues&hide_border=true&card_width=400" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Pinto99&langs_count=10&layout=compact&hide=html,css&card_width=400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Pinto99&show_icons=true&hide=issues&card_width=400" height="200"/>
+</p>
 
 ## 🔧 I Worked On
 
