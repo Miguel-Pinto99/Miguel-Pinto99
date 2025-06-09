@@ -4,7 +4,7 @@
 - 🐍 **Python** | 🐳 **Docker** | 🖥️ **Kivy** | 🤖 **ROS**  
   [**Vehicle-Dashboard**](https://github.com/Miguel-Pinto99/Vehicle-Dashboad) – A dashboard system for EV monitoring and control built with Python.
 
-- 💻 **C#** | 🧱 **.NET** | 🌐 **HTML** | 🗄️ **SQL** | 📡 **MQTT**  
+- 💻 **C#** | 🧱 **.NET** | 🐳 **Docker** | 🌐 **HTML** | 🗄️ **SQL** | 📡 **MQTT**  
   [**Employee-API**](https://github.com/Miguel-Pinto99/Employee-API) – An app built in C# where the backend and frontend communicate through an MQTT broker.
 
 - 🐍 **Python** | 📷 **OpenCV** | 🪟 **Tkinter**  
